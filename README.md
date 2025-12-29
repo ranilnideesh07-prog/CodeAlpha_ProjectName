@@ -1,6 +1,6 @@
-# CodeAlpha_ProjectName
-TASK 1: Flashcard Quiz App
+# CodeAlpha_Flashcard Quiz App
 
+TASK 1: 
 <!DOCTYPE html>
 <html lang="en">
 <head>
